@@ -1,3 +1,9 @@
+SMP Gender Tracker
+==================
+
+for iPixeli's gender mod, and as a test of capsystem's viability
+
+
 use
 ---
 
