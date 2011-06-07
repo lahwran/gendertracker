@@ -1,0 +1,7 @@
+name: Capsystem
+main: net.lahwran.bukkit.capsystem.Main
+version: 0.1
+commands:
+      '@caps': {description: 'clientcap internal, see protocol specification', usage: 'clientcap internal, see protocol specification'}
+      '@cap': {description: 'clientcap internal, see protocol specification', usage: 'clientcap internal, see protocol specification'}
+      '@comm': {description: 'clientcap internal, see protocol specification', usage: 'clientcap internal, see protocol specification'}

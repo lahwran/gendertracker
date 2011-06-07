@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/blendmaster/workspace/Bukkit/target/bukkit-0.0.1-SNAPSHOT.jar" sourcepath="/bukkit/src/main/java"/>
+	<classpathentry kind="lib" path="/home/blendmaster/.minecraft/bin/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/blendmaster/.minecraft/bin/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/blendmaster/.minecraft/bin/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/blendmaster/.minecraft/bin/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/blendmaster/.minecraft/bin/lwjgl_util.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/blendmaster/.minecraft/bin/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/blendmaster/.minecraft/bin/minecraft.jar"/>
+	<classpathentry kind="lib" path="/home/blendmaster/workspace/capsystem-bukkit/target/capsystem-0.1.jar"/>
+	<classpathentry kind="lib" path="/home/blendmaster/workspace/capsystem-bukkit/bin"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
